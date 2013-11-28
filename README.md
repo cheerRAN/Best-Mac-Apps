@@ -8,53 +8,53 @@
 
 #### 1.2 Code
 
-* eclipse	| free
+* eclipse
 * coda2
-* Macvim	|free
+* Macvim	
 * Taco HTML Edit
-* Github	|free
+* Github	
 
 
 #### 1.3 Useful tools
 
-* Alfred	|free
-* The unarchiver	|free
+* Alfred	
+* The unarchiver	
 * Window Tidy
-* DOSBox	|free
+* DOSBox	
 * Network Speed Monitor
-* iChm	|free
+* iChm	
 * Any Video Converter Pro
-* CocoaMento	|free
+* CocoaMento	
 * CleanmyMac
-* Coffitivity	|free
+* Coffitivity	
 
 
 #### 1.4 Writer
 
 * iA Writer
-* WriteRoom	|free
-* Mou		|free
+* WriteRoom	
+* Mou		
 * Marsedit
 
 
 #### 1.5 Browser
 
-* Chrome	|free
-* Firefox	|free
+* Chrome	
+* Firefox	
 
 
 #### 1.6 Brainstorm
 
-* Evernote		|free
-* Skitch	|free
+* Evernote		
+* Skitch	
 * Scapple
-* MindNode Lite		|free
+* MindNode Lite		
 
 
 #### 1.7 Entertianment
 
-* Dynamic Lyrics	|free
-* MPlayer	|free |Best Video Player on Mac
+* Dynamic Lyrics	
+* MPlayer	 |Best Video Player on Mac
 
 
 
