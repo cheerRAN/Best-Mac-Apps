@@ -1,4 +1,4 @@
-# Best Apps in my Mac
+# Best Apps on my Mac
 
 
 #### 1.1 Design
