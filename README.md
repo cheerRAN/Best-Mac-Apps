@@ -75,15 +75,19 @@
 [CocoaMento]:https://code.google.com/p/mentohust/downloads/detail?name=CocoaMento.dmg&can=2&q
 [CleanmyMac]:http://macpaw.com/cleanmymac
 [Coffitivity]:http://coffitivity.com/
+
 [iA Writer]:https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12
 [WriteRoom]:https://itunes.apple.com/cn/app/writeroom/id417967324?mt=12
 [Mou]:http://mouapp.com/
 [Marsedit]:https://itunes.apple.com/cn/app/marsedit-blog-editor-for-wordpress/id402376225?mt=12
+
 [Chrome]:https://www.google.com/intl/zh-CN/chrome/browser/
 [Firefox]:https://www.mozilla.org/zh-CN/firefox/new/?utm_source=firefox-com&utm_medium=referral
+
 [Evernote]:http://www.yinxiang.com/download/get.php?file=EvernoteMacApp
 [Skitch]:https://itunes.apple.com/cn/app/skitch/id425955336?mt=12
 [Scapple]:http://www.literatureandlatte.com/scapple.php
 [MindNode Lite]:https://itunes.apple.com/cn/app/mindnode-lite/id402397683?mt=12
+
 [Dynamic Lyrics]:http://martianz.cn/dynamiclyrics/
 [MplayerX]:http://mplayerx.org/
